@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Moruf Ajibike's GitHub stats](https://github-readme-stats.vercel.app/api?username=morufajibike&count_private=true&theme=dark)
+
 ## Developer Tech
 
 ### Services 
