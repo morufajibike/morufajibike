@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+### Languages 
+
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p>
+
 <!--
 **morufajibike/morufajibike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
