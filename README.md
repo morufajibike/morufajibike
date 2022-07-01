@@ -73,6 +73,47 @@
   </a>  
 </p>
 
+### Tools  
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/dev/tools/android_studio_colour.svg" alt="android_studio_colour" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
+  <a href="#">
+    <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/tools/xcode.svg" alt="xcode" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+</p>
 <!--
 **morufajibike/morufajibike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
