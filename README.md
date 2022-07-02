@@ -4,8 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morufajibike&layout=compact)
 
+## Professional Certifications 
 <!--START_SECTION:badges-->
-### Professional Certifications 
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/232508ac-f0ac-4e36-8019-b1061971318b "Microsoft Certified: DevOps Engineer Expert")
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/110x110/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/07e4d757-0f92-4788-8a9d-129589fecb5f "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 [![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](http://www.credly.com/badges/12650996-794d-40c6-b900-255e6e092a84 "Microsoft Certified: Azure Developer Associate")
