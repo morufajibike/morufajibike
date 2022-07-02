@@ -4,6 +4,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morufajibike&layout=compact)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## Developer Tech
 
 ### Services 
