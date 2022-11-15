@@ -6,6 +6,7 @@
 
 ## Professional Certifications 
 <!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/8a417388-4492-4778-a6d2-de7ac1758ad3 "AWS Certified Solutions Architect – Professional")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/85badc93-487c-44e8-bfb9-2550cb50e6d5 "CKAD: Certified Kubernetes Application Developer")
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/232508ac-f0ac-4e36-8019-b1061971318b "Microsoft Certified: DevOps Engineer Expert")
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/110x110/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/07e4d757-0f92-4788-8a9d-129589fecb5f "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
